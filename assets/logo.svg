@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-labelledby="title desc">
+<title id="title">A Way Logistics LLC</title><desc id="desc">A blue road sweeping toward the horizon beside the A Way Logistics wordmark.</desc>
+<defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35b6ff"/><stop offset="1" stop-color="#0069b7"/></linearGradient></defs>
+<path d="M18 103 C62 28 104 13 166 8 C118 37 94 65 73 111 L18 111Z" fill="#0d2742"/>
+<path d="M35 105 C69 54 102 30 143 20 C110 44 91 73 78 108Z" fill="url(#blue)"/>
+<path d="M51 106 C78 66 99 48 120 36" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 8"/>
+<text x="155" y="65" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2" fill="#0d2742">A WAY</text>
+<text x="159" y="95" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#087cc5">LOGISTICS LLC</text>
+<text x="160" y="116" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.5" fill="#42566b">ANY CARGO • ANY SIZE • ANYWHERE</text>
+</svg>
